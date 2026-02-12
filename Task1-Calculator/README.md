@@ -98,7 +98,7 @@ More tasks will be added as the internship progresses.
 
 ## 👩‍💻 Author
 
-Your Name  
+Rishika  
 Elevate Labs Internship Program  
 
 ---
